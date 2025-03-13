@@ -56,5 +56,5 @@ public class Main {
                     default ->
                             System.out.println("Opción no válida, intente de nuevo.");
                 }
-    } while (opcion != 8);
+    } while (opcion != 6);
 }
